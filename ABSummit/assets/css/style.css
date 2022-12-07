@@ -10385,6 +10385,10 @@ label {
 	margin: 0;
 }
 
+.our-clients img {
+  object-fit: contain;
+}
+
 .our-clients ul li {
 	list-style: none;
 	display: inline-block;
